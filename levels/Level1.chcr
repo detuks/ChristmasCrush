@@ -1,0 +1,9 @@
+c 0 0
+lmi img/MapSurface.png
+lm1 img/evilPing.png
+lm2 img/evilPingM.png
+lb1 img/Crack.png
+lb2 img/IceCubes.png
+#bloks / x / y / radiani
+b1 100 100 3
+b2 -100 40 4
